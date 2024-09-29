@@ -1,0 +1,87 @@
+@media (max-width: 375px) {
+  main {
+    background-color: var(--background);
+  }
+
+  .box {
+    padding: 2vw;
+    border-radius: 1vw;
+    margin-bottom: 3vw;
+  }
+
+  .container {
+    width: 100%;
+    padding: 2vw;
+    border-radius: 1vw;
+  }
+
+  .header-name {
+    gap: 1vw;
+  }
+
+  .header-text {
+    gap: 2vw;
+  }
+
+  .text-name {
+    font-size: 6vw;
+  }
+
+  .skill {
+    gap: 1vw;
+    font-size: 4vw;
+  }
+
+  .profile {
+    width: 25vw;
+    height: 25vw;
+  }
+
+  /*Hard Skills*/
+  .hard-skills-title {
+    margin-bottom: 3vw;
+  }
+
+  .hard-skills-title p {
+    font-size: 5vw;
+  }
+
+  .hard-skills-icon {
+    gap: 2vw;
+  }
+
+  .hard-skills-icon p {
+    font-size: 7vw;
+  }
+
+  /*Contatos*/
+  .contact {
+    gap: 2vw;
+    margin-bottom: 3vw;
+  }
+
+  .contact-img {
+    border-radius: 1vw;
+  }
+
+  .contact-img img {
+    border-radius: 1vw;
+  }
+
+  .redes-sociais {
+    gap: 2vw;
+  }
+
+  .redes-sociais a {
+    padding: 1vw;
+    font-size: 10vw;
+    border-radius: 1vw;
+  }
+
+  /*Link*/
+  .box-link {
+    padding: 4vw;
+    gap: 3vw;
+    font-size: 7vw;
+  }
+}
